@@ -13,7 +13,7 @@ This page provides an overview of courses I have taught, along with selected fee
 - Role: Teaching Assistant for *Methods in NLP*, supporting both undergraduate and graduate students during the Winter 2023/24 semester.
 - Recognition: Received the **Outstanding Teaching Assistant Award** for excellence in teaching, based on student feedback and course engagement.
 
-#### Anonymous Student Feedback Highlights
+#### Anonymous (Translated) Student Feedback Highlights
 
 - "Amazing teaching assistant. Every semester there's one course that you enjoy solely because of the teaching staff. Itay was the teaching assistant for that course this semester. His lessons made learning the material very enjoyable."
   
