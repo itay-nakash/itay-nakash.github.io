@@ -6,7 +6,7 @@ subtitle: NLP, AI Security & Safety Researcher @ IBM Research
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic_circel.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
