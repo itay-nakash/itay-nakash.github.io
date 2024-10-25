@@ -2,12 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: This page provides an overview of courses I have taught, along with selected feedback from students.
 nav: true
 nav_order: 6
 ---
-
-This page provides an overview of courses I have taught, along with selected feedback from students.
 
 ### 2024: Teaching Assistant, Technion - Methods in NLP
 - Role: Teaching Assistant for *Methods in NLP*, supporting both undergraduate and graduate students during the Winter 2023/24 semester.
