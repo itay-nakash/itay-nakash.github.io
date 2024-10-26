@@ -5,11 +5,10 @@
     "image": "",
     "url": "https://itay-nakash.github.io",  
     "email": "itaynaka@gmail.com",
-    "summary": "I am an AI safety and security researcher with a focus on identifying vulnerabilities in AI systems and enhancing autonomous agent safety. My work involves developing techniques to adapt LLM vocabularies for domain-specific applications, aimed at increasing robustness and reliability across various AI-driven tasks.",
-    "location": {
+    "summary": "I am an AI safety and security researcher dedicated to identifying vulnerabilities in AI systems and enhancing the safety of autonomous agents. Passionate about AI, I believe in the value of hands-on work and thrive in collaborative environments."    "location": {
       "address": "",
       "postalCode": "",
-      "city": "Haifa",
+      "city": "Haifa/TLV",
       "countryCode": "IL",
       "region": ""
     },
@@ -80,6 +79,7 @@
       "name": "Methods in NLP",
       "position": "Teaching Assistant",
       "startDate": "2024",
+      "endDate": "2024",
       "summary": "Assisted in teaching Methods in NLP to undergraduate and graduate students; received Outstanding Teaching Assistant Award."
     }
   ],
@@ -89,7 +89,7 @@
       "date": "2020-2023",
       "awarder": "Technion",
       "url": "",
-      "summary": "Awarded for academic excellence and leadership in engineering, including a full scholarship and living expenses sponsored by the Schulich Foundation."
+      "summary": "Awarded for academic excellence and leadership in engineering, including a full scholarship and living expenses sponsored by the Schulich Foundation. <a href=\"https://schulichleaders.co.il/scholars/%D7%90%D7%99%D7%AA%D7%99-%D7%A0%D7%A7%D7%A9/\">Schulich Foundation profile</a>."
     },
     {
       "title": "Outstanding Teaching Assistant Award",
@@ -107,18 +107,18 @@
   ],
   "volunteer": [
     {
-      "organization": "Technion Computer Science Student Committee",
-      "position": "Head of Media and Advertising",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": ""
-    },
-    {
       "organization": "Technion, CS",
       "position": "Technion CS Salary Survey Organizer",
       "startDate": "2023",
       "endDate": "2023",
       "summary": "Conceptualized and conducted a detailed survey with over 400 responses, providing insights on salary trends and data. <a href='https://www.linkedin.com/posts/itay-nakash_cs-student-salary-survey-activity-7007642412722319360-_JaE/'>Survey Analysis Link</a> "
+    },
+    {
+      "organization": "Technion Computer Science Student Committee",
+      "position": "Head of Media and Advertising",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Led media and advertising initiatives for the Technion Computer Science Student Committee."
     }
   ],
   "languages": [
