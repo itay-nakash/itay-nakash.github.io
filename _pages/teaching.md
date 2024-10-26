@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: This page provides an overview of courses I have taught, along with selected feedback from students.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
