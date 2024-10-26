@@ -11,7 +11,7 @@ nav_order: 6
 - Role: Teaching Assistant for *Methods in NLP*, supporting both undergraduate and graduate students during the Winter 2023/24 semester.
 - Recognition: Received the **Outstanding Teaching Assistant Award** for excellence in teaching, based on student feedback and course engagement.
 
-#### Anonymous (Translated) Student Feedback Highlights
+#### Anonymous Student Feedback Highlights [Translated]
 
 - "Amazing teaching assistant. Every semester there's one course that you enjoy solely because of the teaching staff. Itay was the teaching assistant for that course this semester. His lessons made learning the material very enjoyable."
   
