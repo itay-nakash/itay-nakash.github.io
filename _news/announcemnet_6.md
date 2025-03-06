@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my full-time role as an NLP Researcher at IBM! My work will focus on Gen-AI safety and agentic AI security, exploring new challenges in the field.
+I’m starting my full-time role as an NLP Researcher at IBM Research, focusing on Gen-AI safety and agentic AI security. Looking forward to tackling new challenges in the field!
