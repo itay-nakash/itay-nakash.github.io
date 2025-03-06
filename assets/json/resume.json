@@ -32,7 +32,7 @@
       "area": "Faculty of Data Science",
       "studyType": "MSc Candidate",
       "startDate": "2023",
-      "endDate": "2025-02",
+      "endDate": "2025-01",
       "score": "",
       "courses": [],
       "summary": "Researching vocabulary adaptation techniques to improve performance in domain-specific Large Language Models (LLMs). Advisor: Prof. Roi Reichart. GPA: 95.9"
@@ -50,12 +50,21 @@
   "work": [
     {
       "name": "IBM Research",
+      "position": "AI Research Scientist",
+      "location": "Haifa, Israel",
+      "url": "https://www.ibm.com",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Researching vulnerabilities and defense strategies for LLM-based AI agents."
+    },
+    {
+      "name": "IBM Research",
       "position": "NLP Research Intern",
       "location": "Haifa, Israel",
       "url": "https://www.ibm.com",
       "startDate": "2024",
-      "endDate": "",
-      "summary": "Researching vulnerabilities and defense strategies for LLM-based AI agents, focusing on safety and security mechanisms."
+      "endDate": "2025",
+      "summary": "Interned at IBM during my MSc, researching LLM-based AI agent security. This work led to a NAACL 2025 publication."
     },
     {
       "name": "IBM Research",
@@ -110,7 +119,7 @@
   "volunteer": [
     {
       "organization": "Technion, CS",
-      "position": "Technion CS Salary Survey Organizer",
+      "position": "Technion CS Salary Survey",
       "startDate": "2023",
       "endDate": "2023",
       "summary": "Conceptualized and conducted a detailed survey with over 400 responses, providing insights on salary trends and data. <a href='https://www.linkedin.com/posts/itay-nakash_cs-student-salary-survey-activity-7007642412722319360-_JaE/'>Survey Analysis Link</a> "
