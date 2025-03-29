@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to be recognized as an Excellent Teaching Assistant for my work in the Methods for NLP course.
+🏆 Honored to be recognized as an Excellent Teaching Assistant for my work in the Methods for NLP course.

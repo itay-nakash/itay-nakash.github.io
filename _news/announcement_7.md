@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper *AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation* is now published!  
+📄 Our paper *AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation* is now published!  
 Check it out here: [adaptivocab.github.io](https://itay-nakash.github.io/AdaptiVocab/)
