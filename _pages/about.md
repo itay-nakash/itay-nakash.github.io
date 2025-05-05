@@ -19,7 +19,4 @@ I’m Itay Nakash, an AI Research Scientist at IBM.
 
 I’m interested in safe AI and LLM-based agent security. My work focuses on developing and evaluating the safety of AI models, particularly in real-world scenarios where they autonomously take actions on behalf of users.
 
-Outside of research, I love being in the water and outdoors — whether it’s freediving (with personal record of 3:40 minutes underwater), waves-surfing, or hiking.
-
-
 Feel free to connect if you'd like to discuss AI safety, security, or any exciting developments in tech!
