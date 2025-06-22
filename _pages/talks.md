@@ -7,8 +7,6 @@ nav: true
 nav_order: 7
 ---
 
-Here are some of my talks and presentations.
-
 ### Transformer Architecture – NLP Course Tutorial (2023–2024)
 
 A Hebrew tutorial I gave as part of the 2023–2024 NLP course.  
