@@ -3,12 +3,12 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 9
+nav_order: 6
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 6
+  per_page: 3
   sort_field: date
   sort_reverse: true
   trail:
