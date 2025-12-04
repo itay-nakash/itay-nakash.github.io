@@ -32,10 +32,10 @@
       "area": "Faculty of Data Science",
       "studyType": "MSc Candidate",
       "startDate": "2023",
-      "endDate": "2025-01",
+      "endDate": "01-2025",
       "score": "",
       "courses": [],
-      "summary": "Researching vocabulary adaptation techniques to improve performance in domain-specific Large Language Models (LLMs). Advisor: Prof. Roi Reichart. GPA: 95.9"
+      "summary": "Researching vocabulary-adaptation methods for domain-specific LLMs; published work at COLM 2025. Advisor: Prof. Roi Reichart. GPA: 95.9"
     },
     {
       "institution": "Technion - Israel Institute of Technology",
@@ -55,7 +55,7 @@
       "url": "https://www.ibm.com",
       "startDate": "2025",
       "endDate": "",
-      "summary": "Researching vulnerabilities and defense strategies for LLM-based AI agents."
+      "summary": "Researching vulnerabilities and defense strategies for LLM-based AI agents. Leading multiple papers at top-tier conferences and translating these research insights into productized capabilities (e.g., WXO-Agent-Evaluation, WX.Governance) in close collaboration with product and engineering teams."
     },
     {
       "name": "IBM Research",
@@ -64,7 +64,7 @@
       "url": "https://www.ibm.com",
       "startDate": "2024",
       "endDate": "2025",
-      "summary": "Interned at IBM during my MSc, researching LLM-based AI agent security. This work led to a NAACL 2025 publication."
+      "summary": "Interned at IBM during my MSc, researching LLM-based agent security. Discovered and developed a new state-of-the-art Indirect Prompt Injection technique and published it as a NAACL 2025 paper. Converted this work into an automated IPI evaluation framework applicable to any agent system."
     },
     {
       "name": "IBM Research",
@@ -81,7 +81,7 @@
       "location": "Remote",
       "startDate": "2018",
       "endDate": "2018",
-      "summary": "Developed Java Android applications, demonstrating a commitment to learning and technology exploration."
+      "summary": "Developed Android applications in Java, gaining early hands-on experience with software development."
     }
   ],
   "teaching": [
