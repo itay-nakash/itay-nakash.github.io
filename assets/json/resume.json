@@ -34,7 +34,7 @@
       "startDate": "2023",
       "endDate": "01-2025",
       "courses": [
-        "Researching vocabulary-adaptation methods for domain-specific LLMs; published work at COLM 2025.", "Advisor: Prof. Roi Reichart.", "GPA: 95.9"
+        "Researching vocabulary-adaptation methods for LLMs; published work at COLM2025.", "Advisor: Prof. Roi Reichart.", "GPA: 95.9"
       ]
     },
     {
@@ -43,7 +43,7 @@
       "studyType": "BSc",
       "startDate": "2019",
       "endDate": "2023",
-      "courses": ["Gained expertise in data science, machine learning, and NLP, building a foundation in theoretical and practical applications of AI.", "Dean List: Spring 2022"]
+      "courses": ["Built strong grounding in data science, ML, and NLP across both theory and practice.", "Dean List: Spring 2022"]
     }
   ],
   "work": [
