@@ -33,7 +33,9 @@
       "studyType": "MSc Candidate",
       "startDate": "2023",
       "endDate": "01-2025",
-      "summary": "Researching vocabulary-adaptation methods for domain-specific LLMs; published work at COLM 2025. Advisor: Prof. Roi Reichart. GPA: 95.9"
+      "courses": [
+        "Researching vocabulary-adaptation methods for domain-specific LLMs; published work at COLM 2025. Advisor: Prof. Roi Reichart. GPA: 95.9"
+      ]
     },
     {
       "institution": "Technion - Israel Institute of Technology",
