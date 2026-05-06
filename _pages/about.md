@@ -14,9 +14,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there!
-I’m Itay Nakash, an AI Research Scientist at IBM.
+I’m a Research Scientist at IBM Research, working on NLP and LLM-based agents.
 
-I’m interested in safe AI and LLM-based agent security. My work focuses on developing and evaluating the safety of AI models, particularly in real-world scenarios where they autonomously take actions on behalf of users.
+My research focuses on improving how language models and agents are trained, evaluated, and deployed in practical settings. I have worked on AI safety and security, red-teaming, agent evaluation, alignment, and LLM efficiency, with publications at conferences including NAACL, ACL, EMNLP, and COLM.
 
-Feel free to connect if you'd like to discuss AI safety, security, or any exciting developments in tech!
+More broadly, I’m interested in applied research that connects new technical ideas with real-world AI systems: building methods that are useful, measurable, and can provide real value beyond paper settings.
