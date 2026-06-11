@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### Explainable AI Podcast - Guest episode
+### ExplAInable AI Podcast - Guest episode
 
 A guest episode on the ExplAInable AI podcast will be uploaded here soon.
 
