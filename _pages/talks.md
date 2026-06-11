@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+### Explainable AI Podcast - Guest episode
+
+A guest episode on the ExplAInable AI podcast will be uploaded here soon.
+
 ### Transformer Architecture – NLP Course Tutorial (2023–2024)
 
 A Hebrew tutorial I gave as part of the 2023–2024 NLP course.  
