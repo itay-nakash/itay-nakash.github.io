@@ -1,0 +1,97 @@
+\documentclass[10pt]{article}
+\usepackage[letterpaper,margin=0.45in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\setlist[itemize]{leftmargin=*, nosep, topsep=1pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{4pt}{2pt}
+
+\newcommand{\entry}[4]{%
+  \textbf{#1} \hfill #2\\%
+  \emph{#3} \hfill #4%
+}
+
+\begin{document}
+\small
+
+\begin{center}
+  {\LARGE \textbf{Itay Nakash}}\\
+  Haifa, Israel \;|\; 058-7988888 \;|\;
+  \href{mailto:itaynaka@gmail.com}{itaynaka@gmail.com} \;|\;
+  \href{https://itay-nakash.github.io}{itay-nakash.github.io} \;|\;
+  \href{https://github.com/itay-nakash}{GitHub} \;|\;
+  \href{https://www.linkedin.com/in/itay-nakash/}{LinkedIn}
+\end{center}
+
+\section*{Summary}
+AI researcher working across AI safety, security, and efficiency, with a focus on LLMs and agent systems. I build evaluation frameworks, uncover failure modes, and design methods that make agent behavior safer, more reliable, and more efficient in real-world settings.
+
+\section*{Experience}
+\entry{Research Scientist}{Jan 2025 -- Present}{IBM Research}{Haifa, Israel}
+\begin{itemize}
+  \item Led DIVERT, a diversity-guided user simulation framework for efficient, coverage-oriented LLM agent evaluation, accepted to ACL 2026.
+  \item Led CRAFT, an automated red-teaming method for evaluating policy compliance in LLM agents, published at EMNLP 2025 main.
+  \item Helped translate agent red-teaming research into IBM watsonx Orchestrate LLM agent vulnerability testing.
+  \item Co-authored POBs, studying how test-time compute shapes LLM preferences, opinions, and beliefs, published at ACL 2025 Industry Track.
+\end{itemize}
+
+\entry{NLP Research Intern}{Aug 2024 -- Dec 2024}{IBM Research}{Haifa, Israel}
+\begin{itemize}
+  \item Led research on indirect prompt injection attacks in LLM agents, introducing a foot-in-the-door attack and building a general automated robustness evaluation framework.
+  \item Published ``Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In'' at Findings of NAACL 2025.
+\end{itemize}
+
+\entry{Teaching Assistant - Natural Language Processing}{Oct 2023 -- Apr 2024}{Technion - Israel Institute of Technology}{Haifa, Israel}
+\begin{itemize}
+  \item Teaching assistant for Methods in NLP, serving undergraduate and graduate students; received the Outstanding Teaching Assistant Award.
+\end{itemize}
+
+\entry{Research Engineer}{Sep 2021 -- Sep 2022}{IBM}{Haifa, Israel}
+\begin{itemize}
+  \item Researched multi-cluster networking and developed Kubernetes and cloud infrastructure tooling in Go and Python.
+  \item Contributed to open-source multi-cluster cloud computing projects and built engineering experience in distributed systems.
+\end{itemize}
+
+\section*{Education}
+\entry{Master of Science (MSc), Data Science}{Jan 2023 -- Dec 2024}{Technion - Israel Institute of Technology}{GPA: 96.1}
+\begin{itemize}
+  \item Researched domain adaptation for LLMs, including post-training, fine-tuning, vocabulary editing, and architectural modifications for domain-specific efficiency and performance.
+  \item Advisor: Prof. Roi Reichart. Paper: AdaptiVocab, COLM 2025.
+\end{itemize}
+
+\entry{Bachelor of Science (BSc), Computer Science}{2019 -- 2023}{Technion - Israel Institute of Technology}{}
+\begin{itemize}
+  \item Strong grounding in data science, machine learning, NLP, and algorithms. Dean's List: Spring 2022.
+\end{itemize}
+
+\section*{Selected Publications}
+\begin{itemize}
+  \item \textbf{Efficient Agent Evaluation via Diversity-Guided User Simulation}. ACL 2026. \href{https://arxiv.org/abs/2604.21480}{arXiv:2604.21480}
+  \item \textbf{Effective Red-Teaming of Policy-Adherent Agents}. EMNLP 2025. \href{https://aclanthology.org/2025.emnlp-main.114/}{ACL Anthology}
+  \item \textbf{AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation}. COLM 2025. \href{https://openreview.net/forum?id=TyXf9dwpZP}{OpenReview}
+  \item \textbf{Think Again! The Effect of Test-Time Compute on Preferences, Opinions, and Beliefs of Large Language Models}. ACL 2025 Industry Track. \href{https://aclanthology.org/2025.acl-industry.45/}{ACL Anthology}
+  \item \textbf{Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In}. Findings of NAACL 2025. \href{https://aclanthology.org/2025.findings-naacl.363/}{ACL Anthology}
+\end{itemize}
+
+\section*{Awards and Leadership}
+\begin{itemize}
+  \item Outstanding Teaching Assistant Award, Technion, 2024.
+  \item Schulich Leaders Scholarship in Engineering, awarded to 15 Technion students, 2020.
+  \item Head of Media and Advertising, Technion Computer Science Student Committee, 2020--2021.
+\end{itemize}
+
+\section*{Skills}
+\textbf{Research:} LLM agents, agent evaluation, AI safety and security, red-teaming, vulnerability analysis, alignment, LLM efficiency, NLP.\\
+\textbf{Programming:} Python, PyTorch, Transformers, Pandas, NumPy, Scikit-learn, Go, Java.\\
+\textbf{Tools:} LangGraph, LangChain, Kubernetes, Docker, Git, Weights \& Biases.
+
+\end{document}
