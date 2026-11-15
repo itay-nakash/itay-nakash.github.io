@@ -21,7 +21,7 @@ I gave examples from our research papers on LLM agents, shared the skills that I
 
 ### ExplAInable AI Podcast - Guest episode
 
-A guest episode on the ExplAInable AI podcast. [Watch on YouTube](https://www.youtube.com/watch?v=TxqNuP1Un6Y).
+A guest episode on the ExplAInable AI podcast.
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TxqNuP1Un6Y" frameborder="0" allowfullscreen></iframe>
